@@ -1,0 +1,28 @@
+.top {
+    background-color: aqua;
+    padding: 32px;
+    margin: 12px;
+    border: 5px solid red;
+    
+}
+
+.first {
+    background-color: blue;
+    border: 5px solid red;
+    
+   
+    margin: 48px;
+    
+    border-style: groove;
+    
+}
+
+#second {
+    background-color: rosybrown;
+    border: 5px solid red;
+    padding: 32px;
+    
+    box-sizing: border-box;
+    
+    margin-left: 70%;
+}
